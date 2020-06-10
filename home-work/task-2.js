@@ -1,5 +1,9 @@
 'use strict';
 
+console.log('==============================');
+console.log('task 2');
+console.log('==============================');
+
 const inventory = {
   items: ['Knife', 'Gas mask'],
   add(itemName) {
